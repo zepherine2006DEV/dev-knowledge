@@ -7,7 +7,7 @@ Adapted from the tech test checklist used at Makers
 * Commit history clearly shows evidence of a thorough TDD process.
   * Each commit diff shows a unit test or cohesive set of unit tests and the corresponding source code.
 * Dependencies have been mocked (including e.g. Time).
-* Ideally test for behaviour rather than state.
+* Ideally test for behaviour rather than state (could be via another method).
 * Clear test descriptions.
 
 ## Design

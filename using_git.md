@@ -1,5 +1,12 @@
 # Git Hints and Tips
 
+## Basics
+
+* Get a good understanding of the 3 trees, and the roles they play.
+  * HEAD - Last commit snapshot (and the parent of the next commit).
+  * Index - Proposed next commit snapshot. Also known as staging.
+  * Working Directory - Sandbox.
+
 ## git diff
 
 By default (i.e. without any extra arguments) git diff compares the *working tree* with the *staging area* (index). This tells you what is not yet staged for commit.
