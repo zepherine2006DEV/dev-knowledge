@@ -1,6 +1,6 @@
 # Dev Process Checklist
 
-Adapted from the tech test checklist used at Makers
+Adapted from the tech test checklist used at Makers Academy
 
 ## Testing
 
